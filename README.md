@@ -99,3 +99,9 @@ Feel free to fork this project and submit pull requests for any improvements.
 ## Disclaimer
 
 The author takes no responsibility for any misuse of this software. This tool should only be used for educational purposes or on systems you own or have explicit permission to monitor.
+
+## References
+
+## References
+
+This project was inspired by/adapted from [Creating a Python Keylogger in 10 Lines of Code](https://www.askpython.com/python/examples/python-keylogger) by [Debjeet Banerjee]
