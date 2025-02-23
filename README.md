@@ -1,5 +1,3 @@
-# Key_Logger
-
 # Simple Python Keylogger
 
 A basic keylogging utility built with Python using the `pynput` library. This program logs keyboard inputs to a text file with timestamps.
